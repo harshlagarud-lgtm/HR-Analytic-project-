@@ -1,0 +1,33 @@
+HR ANALYTICS PROJECT
+
+1. Total Employees
+SELECT COUNT(*) AS Total_Employees
+FROM Employees;
+
+2. Average Salary
+SELECT AVG(Salary) AS Average_Salary
+FROM Employees;
+
+3.Department Wise Employees
+SELECT Department, COUNT(*) AS Total_Employees
+FROM Employees
+GROUP BY Department;
+
+ 4. Employees Left
+SELECT COUNT(*) AS Employees_Left
+FROM Employees
+WHERE Attrition = 'Yes';
+
+ 5. Active Employees
+SELECT COUNT(*) AS Active_Employees
+FROM Employees
+WHERE Attrition = 'No';
+
+6. Attrition Rate
+SELECT COUNT(CASE WHEN Attrition = 'Yes' THEN 1 END) * 100.0
+/ COUNT(*) AS Attrition_Rate
+FROM Employees;
+
+7.Highest Salary
+SELECT MAX(Salary) AS Highest_Salary
+FROM Employees;
