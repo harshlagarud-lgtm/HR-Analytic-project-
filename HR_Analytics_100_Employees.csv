@@ -1,0 +1,101 @@
+EmployeeID,Gender,Age,Department,JobRole,Salary,Experience,JobSatisfaction,Overtime,Attrition
+1001,Male,42,Sales,Account Manager,33000,3,3,Yes,Yes
+1002,Female,25,Operations,Coordinator,39000,4,4,Yes,Yes
+1003,Male,29,HR,HR Analyst,51000,8,2,No,No
+1004,Female,35,Finance,Finance Executive,47000,3,3,No,Yes
+1005,Male,47,IT,IT Support,53000,5,3,Yes,No
+1006,Female,32,Sales,Sales Manager,29000,1,1,No,No
+1007,Male,30,Operations,Coordinator,37000,0,1,No,No
+1008,Female,39,HR,HR Analyst,65000,9,2,No,Yes
+1009,Male,29,Operations,Operations Executive,39000,4,1,No,No
+1010,Female,48,HR,Recruiter,66000,11,3,Yes,No
+1011,Male,43,Finance,Finance Executive,94000,20,2,No,No
+1012,Female,36,IT,Data Analyst,73000,12,3,No,No
+1013,Male,29,Sales,Sales Manager,32000,0,3,Yes,No
+1014,Female,40,Operations,Coordinator,64000,10,4,No,No
+1015,Male,36,HR,HR Executive,45000,4,2,No,No
+1016,Female,45,Finance,Finance Executive,99000,18,4,No,No
+1017,Male,26,IT,Developer,52000,4,1,No,Yes
+1018,Female,27,Finance,Finance Executive,57000,6,1,No,No
+1019,Male,36,IT,Developer,50000,8,5,No,No
+1020,Female,32,Sales,Sales Manager,35000,1,2,No,No
+1021,Male,50,Operations,Operations Executive,66000,8,5,No,No
+1022,Female,31,HR,HR Analyst,74000,10,2,Yes,No
+1023,Male,39,Finance,Finance Executive,78000,16,3,No,No
+1024,Female,33,IT,Data Analyst,74000,12,1,Yes,No
+1025,Male,24,Sales,Sales Executive,38000,0,5,No,Yes
+1026,Female,37,Operations,Coordinator,48000,5,5,No,No
+1027,Male,39,Sales,Sales Manager,53000,6,3,No,No
+1028,Female,25,Operations,Operations Executive,33000,1,3,Yes,No
+1029,Male,40,HR,HR Executive,47000,7,1,Yes,No
+1030,Female,49,Finance,Finance Executive,59000,10,2,Yes,No
+1031,Male,39,IT,Data Analyst,51000,4,4,No,No
+1032,Female,25,Sales,Sales Manager,44000,3,4,No,No
+1033,Male,43,Operations,Operations Executive,95000,20,4,No,No
+1034,Female,25,HR,HR Executive,32000,1,5,No,No
+1035,Male,30,Finance,Accountant,55000,7,4,No,No
+1036,Female,25,HR,HR Executive,40000,0,1,No,No
+1037,Male,27,Finance,Financial Analyst,48000,3,2,No,No
+1038,Female,27,IT,Tester,33000,3,3,No,No
+1039,Male,31,Sales,Sales Executive,59000,6,2,Yes,No
+1040,Female,40,Operations,Coordinator,83000,17,3,Yes,No
+1041,Male,38,HR,HR Executive,83000,16,5,Yes,No
+1042,Female,41,Finance,Financial Analyst,37000,2,1,No,No
+1043,Male,40,IT,Developer,90000,19,4,No,No
+1044,Female,32,Sales,Account Manager,43000,4,3,Yes,No
+1045,Male,43,IT,Tester,102000,20,3,No,No
+1046,Female,22,Sales,Sales Executive,29000,1,5,Yes,No
+1047,Male,33,Operations,Team Leader,34000,1,3,Yes,No
+1048,Female,44,HR,HR Executive,71000,9,5,Yes,No
+1049,Male,50,Finance,Accountant,45000,4,1,No,Yes
+1050,Female,31,IT,IT Support,60000,9,2,No,No
+1051,Male,38,Sales,Sales Executive,83000,15,1,No,No
+1052,Female,23,Operations,Operations Executive,33000,0,3,Yes,No
+1053,Male,44,HR,HR Executive,68000,13,1,No,No
+1054,Female,26,Operations,Team Leader,37000,4,5,No,No
+1055,Male,23,HR,HR Executive,37000,1,3,Yes,No
+1056,Female,25,Finance,Finance Executive,42000,2,2,No,Yes
+1057,Male,27,IT,Tester,49000,6,1,Yes,No
+1058,Female,47,Sales,Sales Manager,76000,13,2,No,Yes
+1059,Male,49,Operations,Operations Executive,41000,1,2,No,No
+1060,Female,31,HR,HR Executive,40000,3,2,No,No
+1061,Male,24,Finance,Finance Executive,41000,2,5,No,No
+1062,Female,39,IT,Developer,58000,10,3,Yes,No
+1063,Male,30,Finance,Finance Executive,26000,0,4,No,No
+1064,Female,35,IT,Developer,70000,9,4,No,No
+1065,Male,23,Sales,Sales Executive,43000,2,5,No,No
+1066,Female,45,Operations,Team Leader,55000,6,1,No,No
+1067,Male,41,HR,HR Analyst,61000,10,3,No,No
+1068,Female,32,Finance,Finance Executive,53000,6,2,Yes,No
+1069,Male,34,IT,IT Support,63000,10,4,No,Yes
+1070,Female,31,Sales,Account Manager,47000,3,5,No,No
+1071,Male,36,Operations,Team Leader,60000,6,2,No,No
+1072,Female,43,Sales,Sales Executive,103000,20,2,No,No
+1073,Male,28,Operations,Operations Executive,30000,2,2,No,No
+1074,Female,46,HR,Recruiter,44000,2,5,Yes,No
+1075,Male,37,Finance,Accountant,72000,12,1,No,No
+1076,Female,50,IT,Data Analyst,46000,3,2,No,No
+1077,Male,36,Sales,Sales Executive,34000,1,4,Yes,No
+1078,Female,38,Operations,Team Leader,92000,17,5,No,No
+1079,Male,35,HR,Recruiter,85000,13,2,No,No
+1080,Female,30,Finance,Finance Executive,42000,3,4,No,No
+1081,Male,24,HR,Recruiter,37000,2,3,Yes,No
+1082,Female,26,Finance,Financial Analyst,33000,1,2,No,Yes
+1083,Male,35,IT,Tester,57000,5,4,Yes,No
+1084,Female,34,Sales,Account Manager,65000,12,4,No,No
+1085,Male,31,Operations,Coordinator,57000,6,5,No,No
+1086,Female,37,HR,Recruiter,55000,7,4,Yes,No
+1087,Male,43,Finance,Financial Analyst,69000,12,2,No,No
+1088,Female,34,IT,Developer,54000,9,4,Yes,No
+1089,Male,23,Sales,Sales Manager,38000,1,2,No,No
+1090,Female,50,IT,Tester,73000,12,3,No,No
+1091,Male,45,Sales,Sales Manager,83000,17,2,No,No
+1092,Female,42,Operations,Operations Executive,27000,1,2,No,No
+1093,Male,29,HR,HR Analyst,45000,2,1,No,Yes
+1094,Female,44,Finance,Accountant,62000,8,5,No,No
+1095,Male,25,IT,Developer,36000,1,5,Yes,No
+1096,Female,43,Sales,Account Manager,77000,12,2,Yes,No
+1097,Male,42,Operations,Coordinator,50000,7,3,No,No
+1098,Female,25,HR,Recruiter,37000,4,5,No,No
+1099,Male,38,Operations,Team Leader,57000,10,4,Yes,No
+1100,Female,42,HR,Recruiter,76000,14,2,No,No
