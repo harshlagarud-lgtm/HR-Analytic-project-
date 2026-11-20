@@ -1,0 +1,31 @@
+HR Analytics – Project Insights
+
+Business Questions
+
+1. How many employees are working in the company?
+2. How many employees have left?
+3. What is the employee attrition rate?
+4. Which department has the highest attrition?
+5. What is the average employee salary?
+6. What is the average employee age?
+
+Analysis Performed
+
+* Total employee calculation
+* Active employee analysis
+* Attrition analysis
+* Department-wise employee count
+* Salary analysis
+* Employee age analysis
+
+Tools
+
+* Microsoft Excel
+* SQL
+* DB Fiddle
+
+Conclusion
+
+This project demonstrates how Excel and SQL can be used to analyze employee information and understand workforce trends.
+
+Note: SQL practice currently uses 10 sample employee records. Excel analysis uses a separate 100-employee dataset.
