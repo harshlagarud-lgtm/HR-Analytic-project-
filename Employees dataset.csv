@@ -1,0 +1,11 @@
+EmployeeID,Gender,Age,Department,JobRole,Salary,Experience,JobSatisfaction,Overtime,Attrition
+1,Female,25,Sales,Executive,30000,2,4,No,Yes
+2,Male,32,IT,Developer,55000,6,3,Yes,No
+3,Female,28,HR,Recruiter,35000,4,5,No,No
+4,Male,40,Finance,Analyst,65000,12,2,Yes,Yes
+5,Female,30,IT,Developer,50000,5,4,No,No
+6,Male,26,Sales,Executive,32000,3,3,Yes,No
+7,Female,35,Operations,Manager,60000,10,5,No,No
+8,Male,29,Finance,Accountant,42000,5,2,Yes,Yes
+9,Female,24,HR,Assistant,28000,1,4,No,No
+10,Male,38,Operations,Manager,70000,14,3,No,No
