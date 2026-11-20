@@ -46,4 +46,6 @@ SQL Concepts Used
 Objective
 
 To understand employee trends and provide useful insights that can support HR decision-making.
+## HR Analytics Dashboard
 
+![HR Dashboard](IMAGE_7855.jpeg)
